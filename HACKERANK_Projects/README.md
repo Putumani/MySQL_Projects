@@ -12,13 +12,4 @@ Query the NAME field for all American cities in the CITY table with populations 
 
 6.Query the names of all the Japanese cities in the CITY table. The COUNTRYCODE for Japan is JPN. 
 
-The CITY table is described as follows:
-
-    	       CITY
-
-Field 	       Type
-ID	       NUMBER
-NAME	       VARCHAR2(17)
-COUNTRYCODE    VARCHAR2(3)
-DISTRICT       VARCHAR2(20)
-POPULATION     NUMBER
+7.Query a list of CITY and STATE from the STATION table. 
